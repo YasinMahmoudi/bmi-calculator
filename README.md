@@ -11,8 +11,8 @@ This web application simply calculate BMI in the simplest way using the common B
 
 ## Project Demo
 
-<img width="500" height="905" alt="Screenshot 2025-07-17 015319" src="https://github.com/user-attachments/assets/7cff093d-bdaf-4664-b313-1c8d392a8946" />
-<img width="500" height="912" alt="Screenshot 2025-07-17 015346" src="https://github.com/user-attachments/assets/e167d132-859d-478d-b053-3f9bc8c5fbc8" />
+<img width="450" height="905" alt="Screenshot 2025-07-17 015319" src="https://github.com/user-attachments/assets/7cff093d-bdaf-4664-b313-1c8d392a8946" />
+<img width="450" height="912" alt="Screenshot 2025-07-17 015346" src="https://github.com/user-attachments/assets/e167d132-859d-478d-b053-3f9bc8c5fbc8" />
 
 
 
